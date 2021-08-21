@@ -2,17 +2,17 @@
 
 - (PROJECT-LINK)： https://pacman-dhruva-yash-naitik.netlify.app/
 
-### Countibutors 
+### Contributors 
 
 []()
 
 - [x] CREDITS TO:-
--  YASH RICHHARIYAA
+-  YASH RICHHARIYA
 -  NAITIK SHARMA
 -  DHRUVA BHATTACHARYA
 
 - [x] DESIGN AND DRAFTING:-
--  YASH RICHHARIYAA
+-  YASH RICHHARIYA
 
 - [x] CREATIVE HEAD AND TEAM LEAD:-
 -  NAITIK SHARMA
