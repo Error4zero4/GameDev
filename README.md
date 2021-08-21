@@ -1,6 +1,6 @@
 # Pacman
 
-- (PROJECT-LINK)：
+- (PROJECT-LINK)： https://pacman-dhruva-yash-naitik.netlify.app/
 
 ###
 
