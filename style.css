@@ -1,3 +1,13 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}    
+
 .footer > .copyright-wrapper {
   margin-bottom: 42px;
   font-size: 0.7em;
